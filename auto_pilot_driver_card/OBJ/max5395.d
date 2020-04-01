@@ -1,0 +1,16 @@
+..\OBJ\max5395.o: ..\HARDWARE\MAX5395\max5395.c
+..\OBJ\max5395.o: ..\HARDWARE\MAX5395\max5395.h
+..\OBJ\max5395.o: ..\HARDWARE\IIC\myiic.h
+..\OBJ\max5395.o: ..\SYSTEM\sys\sys.h
+..\OBJ\max5395.o: ..\USER\stm32f10x.h
+..\OBJ\max5395.o: ..\CORE\core_cm3.h
+..\OBJ\max5395.o: d:\Keil_v4\ARM\ARMCC\bin\..\include\stdint.h
+..\OBJ\max5395.o: ..\USER\system_stm32f10x.h
+..\OBJ\max5395.o: ..\USER\stm32f10x_conf.h
+..\OBJ\max5395.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\OBJ\max5395.o: ..\USER\stm32f10x.h
+..\OBJ\max5395.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\OBJ\max5395.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\OBJ\max5395.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\OBJ\max5395.o: ..\STM32F10x_FWLib\inc\misc.h
+..\OBJ\max5395.o: ..\SYSTEM\delay\delay.h
